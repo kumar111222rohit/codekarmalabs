@@ -1,0 +1,13 @@
+{
+  "name": "Code Karma Labs",
+  "short_name": "Code Karma Labs",
+  "start_url": ".",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "img/codekarma_small.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}
